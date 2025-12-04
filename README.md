@@ -48,8 +48,8 @@ CIRCUIT DIAGRAM
 
 ## DESIGN
 
-![WhatsApp Image 2025-12-04 at 10 38 33_da309022](https://github.com/user-attachments/assets/4c51c3e9-9fa6-43f2-9bff-0f363481f22b)
-  	
+![WhatsApp Image 2025-12-04 at 11 03 03_89726d9e](https://github.com/user-attachments/assets/a6f8fc26-445a-4746-b31e-2d61b824449a)
+ 	
 
 ## PROCEDURE
 
