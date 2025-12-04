@@ -50,6 +50,7 @@ CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-12-04 at 11 03 03_89726d9e](https://github.com/user-attachments/assets/a6f8fc26-445a-4746-b31e-2d61b824449a)
  	
+![WhatsApp Image 2025-12-04 at 11 38 33_08d9d426](https://github.com/user-attachments/assets/04728acf-5c3d-4461-ae88-bc0c6b835838)
 
 ## PROCEDURE
 
@@ -127,15 +128,7 @@ AND
 
 ## DESIGN
 
-Design an op-amp differentiator that will differentiate an input signal with fmax = 100HZ Select fa = fmax = 100 HZ = 1 / 2πRFC1
-Let C1 = 0.1μF
-Then RF = 1 / 2π(102)(10-7)
-= 15.9KΩ
-Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
-= 1.59KΩ Since RFCF = R1C1
-We get, CF = (1.59*103*10-7) / 15.9*103
-= 0.01μF
-
+![WhatsApp Image 2025-12-04 at 11 37 55_17129c17](https://github.com/user-attachments/assets/3b82e514-4d70-449a-af6d-8688b4856b46)
 
 ## PROCEDURE
 
